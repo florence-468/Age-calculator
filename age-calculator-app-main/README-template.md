@@ -1,3 +1,4 @@
+
 # Frontend Mentor - Age calculator app solution
 
 This is a solution to the [Age calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q).Age calculator an application that help in calculating your age, saving you the stress of calculating manually. 
@@ -15,6 +16,8 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
 
 ## Overview
 
+This is an application that helps in calculating your age, saving you the stress of calculating manually. It just requires you provide/input you birth day, month and year and it generate your age for you once you click on the button. It has a dark and light mood which can be activated using the toggle button. 
+### the-challenge
 Users should be able to:
 
 - View an age in years, months, and days after submitting a valid date through the form
@@ -28,9 +31,9 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 - **Bonus**: See the age numbers animate to their final number when the form is submitted
 - The calculated age is stored in the local storage
+-make use of the toggle button to swich between dark and light mood
 
-### the-challenge
-i was not able to save the calculated age to local storage 
+
 
 ### Screenshot
 
@@ -78,8 +81,7 @@ modeToggle.addEventListener('change', function () {
 
 ### Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
 ### Useful resources
